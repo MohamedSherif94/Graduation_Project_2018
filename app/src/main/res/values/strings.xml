@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+
+    <!-- Strings related to MyHome -->
+    <string name="title_activity_my_home">MyHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email or username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_forget_password">Forgot Password</string>
+
+    <string name="title_activity_login">Sign in</string>
+
+</resources>
